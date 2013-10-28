@@ -1,4 +1,4 @@
-Git notes from [http://try.github.io/](http://try.github.io/)
+##Git notes from [http://try.github.io/](http://try.github.io/)
 
 ###1.1 Got 15 minutes and want to learn Git?
 Git allows groups of people to work on the same documents (often code) at the same time, and without stepping on each other's toes. It's a distributed version control system.
@@ -13,10 +13,12 @@ Initialized empty Git repository in /.git/
 
 <pre>
 edjekyll@ubuntu:~/gitnotes$ git init
+
 Initialized empty Git repository in /home/edjekyll/gitnotes/.git/
 </pre>
 
 Advice
+------
 Directory:
 A folder used for storing multiple files.
 
